@@ -16,5 +16,5 @@ spec:
     spec:
       containers:
       - name: hello
-        image: akramadem/gitops:hellov1.0
+        image: akramadem/gitops:hellov1.2
       
